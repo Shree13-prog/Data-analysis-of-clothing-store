@@ -84,3 +84,6 @@ This dataset contains order-level details from a clothing store that sells acros
 ## Conclusion
 This analysis provided a comprehensive view of the clothing store’s performance across states, customer segments, and sales platforms. Maharashtra and Amazon emerged as top contributors to revenue, while women and adult shoppers drove most of the orders. Seasonal trends showed fluctuations in AOV, pointing to key months for targeted marketing. By optimizing strategies for top-performing platforms and demographics, and addressing underperforming areas, the store can unlock further growth and profitability.
 
+## Business impact 
+This analysis helps the clothing store make smarter, data-driven decisions to boost sales and customer satisfaction. By focusing on high-performing states like Maharashtra and platforms like Amazon and Myntra, the store can maximize marketing ROI and streamline logistics. Insights into customer demographics, especially the strong female and adult shopper base, support targeted promotions and product strategies. Identifying seasonal drops in average order value allows for well-timed discounts and bundling offers. Reducing return rates and optimizing performance on underutilized platforms can further increase profitability. Overall, the store can enhance revenue efficiency, customer engagement, and market expansion using these insights.
+
